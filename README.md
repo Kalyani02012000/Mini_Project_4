@@ -7,6 +7,11 @@ The objective is to build a recommendation system based on restaurant data provi
 
 Technical Tags:
 
-Python Streamlit MachineLearning KMeans PCA RestaurantRecommendation 
-DataCleaning Clustering ScikitLearn WebApp 
-DataPreprocessing OneHotEncoding LabelEncoding InteractiveDashboard
+DataCleaning
+Data Preprocessing
+One-Hot Encoding,LabelEncoding 
+Clustering (K-Means)
+PCA
+Streamlit Application Development
+ScikitLearn
+Python
